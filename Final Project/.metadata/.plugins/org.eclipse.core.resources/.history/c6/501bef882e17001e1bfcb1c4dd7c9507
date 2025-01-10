@@ -1,0 +1,18 @@
+package com.Dao;
+
+import java.sql.Connection;
+
+public class UserDao 
+{
+	private static Connection conn;
+	public static Connection getCOnn()
+	{
+		if(conn==null)
+		{
+			Class.forName("com.mysql.jdbc.Driver");
+		}
+		
+		return conn;
+	}
+
+}

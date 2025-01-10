@@ -1,0 +1,16 @@
+127.0.0.1 - - [10/Jul/2023:14:30:12 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [10/Jul/2023:14:30:14 +0530] "GET /EnotesProject/ HTTP/1.1" 200 3350
+0:0:0:0:0:0:0:1 - - [10/Jul/2023:14:30:14 +0530] "GET /EnotesProject/css/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [10/Jul/2023:14:30:14 +0530] "GET /EnotesProject/img/enotes%20background%20image2.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [10/Jul/2023:14:30:15 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [10/Jul/2023:14:30:20 +0530] "GET /EnotesProject/register.jsp HTTP/1.1" 200 3941
+0:0:0:0:0:0:0:1 - - [10/Jul/2023:14:31:00 +0530] "POST /EnotesProject/UserServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/Jul/2023:14:31:00 +0530] "GET /EnotesProject/register.jsp HTTP/1.1" 200 4072
+0:0:0:0:0:0:0:1 - - [10/Jul/2023:14:31:04 +0530] "GET /EnotesProject/login.jsp HTTP/1.1" 200 3716
+0:0:0:0:0:0:0:1 - - [10/Jul/2023:14:31:42 +0530] "POST /EnotesProject/loginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/Jul/2023:14:31:42 +0530] "GET /EnotesProject/login.jsp HTTP/1.1" 200 3826
+0:0:0:0:0:0:0:1 - - [10/Jul/2023:14:33:38 +0530] "POST /EnotesProject/loginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/Jul/2023:14:33:38 +0530] "GET /EnotesProject/home.jsp HTTP/1.1" 200 5104
+0:0:0:0:0:0:0:1 - - [10/Jul/2023:14:33:38 +0530] "GET /EnotesProject/img/notepad-3297994_640.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [10/Jul/2023:14:34:01 +0530] "GET /EnotesProject/addNotes.jsp HTTP/1.1" 404 1104
+0:0:0:0:0:0:0:1 - - [10/Jul/2023:14:34:12 +0530] "GET /EnotesProject/index.jsp HTTP/1.1" 200 5391

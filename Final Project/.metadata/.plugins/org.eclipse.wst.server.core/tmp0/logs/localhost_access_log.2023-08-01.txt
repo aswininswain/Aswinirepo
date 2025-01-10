@@ -1,0 +1,14 @@
+127.0.0.1 - - [01/Aug/2023:14:33:21 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [01/Aug/2023:14:33:35 +0530] "GET /EnotesProject/ HTTP/1.1" 200 3355
+0:0:0:0:0:0:0:1 - - [01/Aug/2023:14:33:35 +0530] "GET /EnotesProject/css/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [01/Aug/2023:14:33:35 +0530] "GET /EnotesProject/img/enotes%20background%20image2.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [01/Aug/2023:14:33:35 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [01/Aug/2023:14:33:46 +0530] "GET /EnotesProject/register.jsp HTTP/1.1" 200 3946
+0:0:0:0:0:0:0:1 - - [01/Aug/2023:14:34:15 +0530] "POST /EnotesProject/UserServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [01/Aug/2023:14:34:15 +0530] "GET /EnotesProject/register.jsp HTTP/1.1" 200 4077
+0:0:0:0:0:0:0:1 - - [01/Aug/2023:14:34:19 +0530] "GET /EnotesProject/login.jsp HTTP/1.1" 200 3721
+0:0:0:0:0:0:0:1 - - [01/Aug/2023:14:34:34 +0530] "POST /EnotesProject/loginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [01/Aug/2023:14:34:35 +0530] "GET /EnotesProject/home.jsp HTTP/1.1" 200 5111
+0:0:0:0:0:0:0:1 - - [01/Aug/2023:14:34:35 +0530] "GET /EnotesProject/img/notepad-3297994_640.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [01/Aug/2023:14:34:49 +0530] "GET /EnotesProject/addNotes.jsp HTTP/1.1" 200 5446
+0:0:0:0:0:0:0:1 - - [01/Aug/2023:14:35:04 +0530] "GET /EnotesProject/addNotes.jsp? HTTP/1.1" 200 5446

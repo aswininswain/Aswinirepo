@@ -1,0 +1,331 @@
+
+Jun 30, 2023 18:52:59.22 NEW SESSION
+Jun 30, 2023 18:52:59.22 [14020:5208:0630/185259.216:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 30, 2023 18:53:18.25 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 30, 2023 18:53:26.71 [14020:5208:0630/185326.712:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 30, 2023 18:54:19.68 [14020:5208:0630/185419.680:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 30, 2023 18:56:19.07 [14020:5208:0630/185619.076:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 30, 2023 18:59:29.79 [14020:5208:0630/185929.798:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 30, 2023 19:00:46.19 [14020:12580:0630/190046.194:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Jun 30, 2023 19:00:47.38 [14020:12580:0630/190047.380:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Jun 30, 2023 19:05:13.08 [14020:5208:0630/190513.083:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 30, 2023 19:15:13.10 [14020:5208:0630/191513.107:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 30, 2023 19:25:13.12 [14020:5208:0630/192513.123:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 30, 2023 19:27:55.86 [14020:12580:0630/192755.830:ERROR:service_worker_task_queue.cc(234)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 14
+Jun 30, 2023 19:42:53.89 [14020:5208:0630/194253.879:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jul 01, 2023 08:11:33.53 [14020:5208:0701/081133.531:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 01, 2023 08:11:38.99 [14020:5208:0701/081138.989:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 01, 2023 08:51:00.95 [14020:5208:0701/085100.931:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jul 01, 2023 10:10:48.95 [14020:5208:0701/101048.944:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 01, 2023 10:11:08.59 [14020:5208:0701/101108.589:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 01, 2023 11:02:33.14 [14020:5208:0701/110233.145:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 01, 2023 11:03:05.18 [14020:12580:0701/110305.178:ERROR:gcm_message_cryptographer.cc(376)] Unable to transform the record.
+Jul 01, 2023 11:03:05.24 [14020:12580:0701/110305.239:ERROR:gcm_message_cryptographer.cc(376)] Unable to transform the record.
+Jul 01, 2023 11:03:07.25 [14020:5208:0701/110307.250:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jul 01, 2023 11:14:59.64 [14020:5208:0701/111459.613:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 01, 2023 11:15:23.69 [14020:5208:0701/111523.692:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 01, 2023 11:16:00.01 [14020:12580:0701/111600.018:ERROR:device_event_log_impl.cc(222)] [11:16:00.017] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jul 01, 2023 11:16:22.45 [14020:5208:0701/111622.448:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 01, 2023 11:18:06.66 [14020:5208:0701/111806.663:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 01, 2023 11:21:10.96 [14020:5208:0701/112110.964:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 01, 2023 11:27:18.14 [14020:5208:0701/112718.146:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 01, 2023 11:37:18.16 [14020:5208:0701/113718.163:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 01, 2023 11:47:18.18 [14020:5208:0701/114718.177:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 01, 2023 11:57:18.18 [14020:5208:0701/115718.180:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 01, 2023 12:07:18.19 [14020:5208:0701/120718.183:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 01, 2023 12:11:34.73 [14020:13168:0701/121134.733:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 01, 2023 12:12:49.75 [14020:13168:0701/121249.750:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 01, 2023 12:15:57.28 [14020:13168:0701/121557.279:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 01, 2023 12:17:18.20 [14020:5208:0701/121718.201:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 01, 2023 12:23:46.04 [14020:13168:0701/122346.041:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 01, 2023 13:40:56.58 [14020:5208:0701/134056.578:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 01, 2023 13:40:56.92 [14020:9676:0701/134056.918:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+Jul 04, 2023 08:56:28.26 NEW SESSION
+Jul 04, 2023 08:56:28.26 [3040:10424:0704/085628.259:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 04, 2023 08:56:38.34 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Jul 04, 2023 08:56:56.05 [3040:10424:0704/085656.055:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 04, 2023 08:57:37.46 [3040:10424:0704/085737.459:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 04, 2023 08:59:29.53 [3040:10424:0704/085929.530:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 04, 2023 09:03:09.67 [3040:10424:0704/090309.668:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 04, 2023 09:10:11.21 [3040:10424:0704/091011.215:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 04, 2023 09:20:11.22 [3040:10424:0704/092011.222:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 04, 2023 09:30:11.23 [3040:10424:0704/093011.230:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 04, 2023 09:40:11.24 [3040:10424:0704/094011.243:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 04, 2023 09:50:11.26 [3040:10424:0704/095011.256:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 04, 2023 10:00:11.26 [3040:10424:0704/100011.262:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Jul 04, 2023 10:07:21.35 NEW SESSION
+Jul 04, 2023 10:07:21.35 [19612:14484:0704/100721.344:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 04, 2023 10:07:33.40 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Jul 04, 2023 10:07:43.50 [19612:14484:0704/100743.501:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 04, 2023 10:08:26.22 [19612:14484:0704/100826.223:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 04, 2023 10:09:46.63 [19612:14484:0704/100946.638:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 04, 2023 10:12:32.43 [19612:14484:0704/101232.438:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 04, 2023 10:19:41.26 [19612:14484:0704/101941.266:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 04, 2023 10:29:41.28 [19612:14484:0704/102941.280:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Aug 01, 2023 14:33:45.13 NEW SESSION
+Aug 01, 2023 14:33:45.13 [17656:15040:0801/143345.130:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 01, 2023 14:33:45.31 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Aug 10, 2023 11:01:51.50 NEW SESSION
+Aug 10, 2023 11:01:51.50 [688:5428:0810/110151.503:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 10, 2023 11:01:51.50 [688:5428:0810/110151.504:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 10, 2023 11:01:58.90 [688:13380:0810/110158.900:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 10, 2023 11:01:58.96 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 10, 2023 11:02:15.99 [688:5428:0810/110215.996:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 10, 2023 11:02:20.43 [688:5428:0810/110220.436:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 10, 2023 11:02:20.85 [688:13380:0810/110220.850:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Aug 10, 2023 11:02:21.36 [688:13380:0810/110221.359:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Aug 10, 2023 11:02:56.31 [688:5428:0810/110256.319:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 10, 2023 11:03:14.60 [688:5428:0810/110314.603:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 10, 2023 11:04:33.23 [688:5428:0810/110433.236:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 10, 2023 11:05:11.08 [688:5428:0810/110511.089:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 10, 2023 11:08:23.19 [688:5428:0810/110823.189:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 10, 2023 11:08:50.80 [688:5428:0810/110850.805:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 10, 2023 11:13:55.45 [688:5428:0810/111355.456:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 10, 2023 11:15:36.69 [688:5428:0810/111536.693:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 10, 2023 11:23:55.46 [688:5428:0810/112355.459:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 10, 2023 11:25:36.69 [688:5428:0810/112536.697:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 10, 2023 11:32:37.71 [13376:8912:0810/113237.707:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 10, 2023 11:32:37.71 [13376:8912:0810/113237.708:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 10, 2023 11:32:39.48 [13376:14944:0810/113239.481:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 10, 2023 11:32:39.55 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 10, 2023 11:33:03.94 [13376:8912:0810/113303.939:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 10, 2023 11:33:06.88 [13376:8912:0810/113306.879:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 10, 2023 11:33:44.44 [13376:8912:0810/113344.446:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 10, 2023 11:33:56.82 [13376:8912:0810/113356.823:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 10, 2023 11:35:05.28 [13376:8912:0810/113505.282:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 10, 2023 11:35:23.71 [13376:8912:0810/113523.712:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 10, 2023 11:37:51.80 [13376:8912:0810/113751.800:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 10, 2023 11:39:17.14 [13376:8912:0810/113917.147:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 10, 2023 11:45:32.52 [13376:8912:0810/114532.520:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 10, 2023 11:46:24.16 [13376:8912:0810/114624.165:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 10, 2023 11:55:32.53 [13376:8912:0810/115532.537:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 10, 2023 11:56:24.18 [13376:8912:0810/115624.182:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 10, 2023 12:01:50.08 [13672:15564:0810/120150.080:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 10, 2023 12:01:50.08 [13672:15564:0810/120150.081:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 10, 2023 12:01:51.78 [13672:3184:0810/120151.787:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 10, 2023 12:01:51.86 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 10, 2023 12:02:10.51 [13672:15564:0810/120210.516:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 10, 2023 12:02:17.57 [13672:15564:0810/120217.574:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 10, 2023 12:03:07.21 [13672:15564:0810/120307.214:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 10, 2023 12:03:13.78 [13672:15564:0810/120313.788:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 10, 2023 12:04:28.13 [13672:15564:0810/120428.134:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+
+Aug 11, 2023 17:23:53.55 NEW SESSION
+Aug 11, 2023 17:23:53.55 [14308:12112:0811/172353.551:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 11, 2023 17:23:53.65 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 11, 2023 17:25:26.92 [12480:1860:0811/172526.924:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 11, 2023 17:25:27.13 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 11, 2023 17:25:55.82 [17144:1776:0811/172555.817:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 11, 2023 17:25:55.86 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 11, 2023 17:46:04.92 [9288:14212:0811/174604.924:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 11, 2023 17:46:04.99 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Aug 11, 2023 17:51:32.82 NEW SESSION
+Aug 11, 2023 17:51:32.82 [8560:19028:0811/175132.815:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 11, 2023 17:51:32.88 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Aug 12, 2023 13:49:41.00 NEW SESSION
+Aug 12, 2023 13:49:41.00 [256:16992:0812/134940.977:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 12, 2023 13:49:56.71 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 12, 2023 13:50:09.14 [256:16992:0812/135009.138:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 12, 2023 13:50:58.25 [256:16992:0812/135058.247:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Aug 15, 2023 20:14:49.90 NEW SESSION
+Aug 15, 2023 20:14:49.90 [17232:3604:0815/201449.893:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 15, 2023 20:14:49.91 [17232:3604:0815/201449.894:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 20:14:49.91 [17232:3604:0815/201449.895:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 15, 2023 20:14:49.91 [17232:3604:0815/201449.896:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 20:14:49.91 [17232:3604:0815/201449.896:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 20:14:49.91 [17232:3604:0815/201449.896:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 20:15:03.06 [17232:16596:0815/201503.062:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Aug 15, 2023 20:15:03.22 [17232:16596:0815/201503.220:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Aug 15, 2023 20:15:11.78 [17232:3604:0815/201511.788:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 20:15:12.27 [17232:3604:0815/201512.278:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 20:15:13.26 [17232:3604:0815/201513.259:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 20:15:15.70 [17232:3604:0815/201515.703:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 20:15:18.94 [17232:3604:0815/201518.948:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 15, 2023 20:15:19.02 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 15, 2023 20:15:19.82 [17232:3604:0815/201519.823:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 15, 2023 20:15:57.66 [17232:3604:0815/201557.663:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 20:16:02.02 [17232:3604:0815/201602.027:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 15, 2023 20:16:02.07 [17232:3604:0815/201602.075:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 20:16:02.10 [17232:3604:0815/201602.107:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 20:16:10.54 [17232:3604:0815/201610.544:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 20:16:17.79 [17232:3604:0815/201617.795:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 15, 2023 20:17:18.56 [17232:3604:0815/201718.566:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 20:17:32.01 [17232:3604:0815/201732.012:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 20:17:37.10 [17232:3604:0815/201737.105:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 15, 2023 20:17:44.36 [17232:3604:0815/201744.363:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 20:17:58.43 [17232:3604:0815/201758.435:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 20:18:09.65 [17232:3604:0815/201809.652:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+
+Aug 15, 2023 21:11:24.53 NEW SESSION
+Aug 15, 2023 21:11:24.53 [6428:18748:0815/211124.527:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 15, 2023 21:11:24.53 [6428:18748:0815/211124.531:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:11:24.53 [6428:18748:0815/211124.531:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 15, 2023 21:11:24.53 [6428:18748:0815/211124.531:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:11:24.53 [6428:18748:0815/211124.531:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:11:24.53 [6428:18748:0815/211124.532:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:11:30.62 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 15, 2023 21:11:48.09 [6428:18748:0815/211148.092:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:11:48.67 [6428:18748:0815/211148.674:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 15, 2023 21:11:50.34 [6428:18748:0815/211150.340:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 15, 2023 21:11:51.77 [6428:18748:0815/211151.771:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:11:53.40 [6428:18748:0815/211153.408:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:11:54.38 [6428:18748:0815/211154.383:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:12:35.70 [6428:18748:0815/211235.701:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 15, 2023 21:12:37.00 [6428:18748:0815/211237.000:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:12:37.65 [6428:18748:0815/211237.652:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 15, 2023 21:12:42.61 [6428:18748:0815/211242.614:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:12:49.25 [6428:18748:0815/211249.254:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:12:52.57 [6428:18748:0815/211252.570:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:14:08.35 [6428:18748:0815/211408.351:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 15, 2023 21:14:15.48 [6428:18748:0815/211415.482:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:14:15.87 [6428:18748:0815/211415.870:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:14:18.39 [6428:18748:0815/211418.390:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:14:29.94 [6428:18748:0815/211429.944:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:14:34.82 [6428:18748:0815/211434.826:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 15, 2023 21:17:18.52 [6428:18748:0815/211718.523:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:17:30.47 [6428:18748:0815/211730.475:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 15, 2023 21:17:42.54 [6428:18748:0815/211742.545:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:17:47.61 [6428:18748:0815/211747.612:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:17:52.56 [6428:18748:0815/211752.559:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 15, 2023 21:17:57.97 [6428:18748:0815/211757.977:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:22:58.10 [6428:18748:0815/212258.092:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 15, 2023 21:23:21.74 [6428:18748:0815/212321.739:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:23:43.56 [6428:18748:0815/212343.566:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:23:50.99 [6428:18748:0815/212350.990:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:24:35.90 [6428:18748:0815/212435.906:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 15, 2023 21:25:15.57 [6428:18748:0815/212515.577:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 15, 2023 21:32:58.10 [6428:18748:0815/213258.102:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 15, 2023 21:34:35.92 [6428:18748:0815/213435.920:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 15, 2023 22:07:24.07 [6428:18748:0815/220724.069:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 15, 2023 22:07:24.60 [6428:18748:0815/220724.607:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 15, 2023 22:17:24.08 [6428:18748:0815/221724.079:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 15, 2023 22:17:24.62 [6428:18748:0815/221724.622:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 15, 2023 22:27:24.08 [6428:18748:0815/222724.083:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 15, 2023 22:27:24.63 [6428:18748:0815/222724.634:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 15, 2023 22:37:24.09 [6428:18748:0815/223724.097:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 15, 2023 22:37:24.64 [6428:18748:0815/223724.640:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 15, 2023 22:47:24.11 [6428:18748:0815/224724.109:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 15, 2023 22:47:24.64 [6428:18748:0815/224724.647:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 15, 2023 23:21:25.31 [6428:18748:0815/232125.280:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 15, 2023 23:21:25.99 [6428:18748:0815/232125.989:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+
+Aug 16, 2023 14:19:33.13 NEW SESSION
+Aug 16, 2023 14:19:33.13 [4752:8836:0816/141933.130:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 16, 2023 14:19:33.13 [4752:8836:0816/141933.132:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 16, 2023 14:19:33.14 [4752:8836:0816/141933.133:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 16, 2023 14:19:33.14 [4752:8836:0816/141933.133:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 16, 2023 14:19:33.14 [4752:8836:0816/141933.133:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 16, 2023 14:19:33.14 [4752:8836:0816/141933.133:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 16, 2023 14:19:40.72 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 16, 2023 14:19:53.33 [4752:8836:0816/141953.338:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 16, 2023 14:19:56.23 [4752:8836:0816/141956.235:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 16, 2023 14:19:56.81 [4752:8836:0816/141956.809:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 16, 2023 14:19:59.50 [4752:8836:0816/141959.499:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 16, 2023 14:20:00.25 [4752:8836:0816/142000.257:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 16, 2023 14:20:02.91 [4752:8836:0816/142002.911:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 16, 2023 14:20:46.14 [4752:8836:0816/142046.145:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 16, 2023 14:20:47.44 [4752:8836:0816/142047.440:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 16, 2023 14:20:51.82 [4752:8836:0816/142051.826:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 16, 2023 14:20:51.87 [4752:8836:0816/142051.871:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Aug 16, 2023 14:20:57.69 [4752:8836:0816/142057.694:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Aug 16, 2023 14:20:58.43 [4752:8836:0816/142058.436:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+
+Sep 28, 2023 24:05:59.39 NEW SESSION
+Sep 28, 2023 24:05:59.40 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 28, 2023 24:08:41.52 ERROR: Client requested cancel during Invoke()
+
+Oct 02, 2023 22:16:44.82 NEW SESSION
+Oct 02, 2023 22:16:44.82 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 15, 2023 13:36:17.40 NEW SESSION
+Oct 15, 2023 13:36:17.40 [22176:23288:1015/133617.403:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 15, 2023 13:36:17.41 [22176:23288:1015/133617.405:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Oct 15, 2023 13:36:17.41 [22176:23288:1015/133617.405:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Oct 15, 2023 13:36:19.42 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 15, 2023 13:36:41.30 [22176:23288:1015/133641.299:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Oct 15, 2023 13:36:44.22 [22176:7896:1015/133644.223:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Oct 15, 2023 13:36:44.78 [22176:23288:1015/133644.785:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 15, 2023 13:36:45.81 [22176:23288:1015/133645.818:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Oct 15, 2023 13:37:22.82 [22176:23288:1015/133722.817:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Oct 15, 2023 13:37:35.90 [22176:23288:1015/133735.908:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Oct 15, 2023 13:37:40.14 [22176:23288:1015/133740.140:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 15, 2023 13:39:04.39 [22176:23288:1015/133904.393:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Oct 15, 2023 13:39:12.97 [22176:23288:1015/133912.973:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Oct 15, 2023 13:39:22.20 [22176:23288:1015/133922.202:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 15, 2023 13:42:15.88 [22176:23288:1015/134215.884:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Oct 15, 2023 13:42:32.11 [22176:23288:1015/134232.112:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 15, 2023 13:42:44.98 [22176:23288:1015/134244.988:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Oct 15, 2023 13:44:22.48 [22176:7896:1015/134422.483:ERROR:CONSOLE(1)] "Uncaught (in promise) SyntaxError: Unexpected token 'H', "HTTP/1.1 4"... is not valid JSON", source: devtools://devtools/bundled/devtools_app.html?remoteBase=https://chrome-devtools-frontend.appspot.com/serve_file/@e3344ddefa12e60436fa28c81cf207c1afb4d0a9/&can_dock=true&panel=elements&targetType=tab (1)
+Oct 15, 2023 14:01:34.82 [22176:23288:1015/140134.822:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 15, 2023 14:01:34.82 [22176:23288:1015/140134.828:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Oct 15, 2023 14:01:34.84 [22176:23288:1015/140134.844:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Oct 15, 2023 14:52:07.42 [22176:23288:1015/145206.981:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 15, 2023 14:52:07.64 [22176:23288:1015/145207.406:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Oct 15, 2023 14:53:10.61 [22176:23288:1015/145310.604:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 15, 2023 14:53:24.51 [22176:23288:1015/145324.509:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 15, 2023 14:53:52.15 [22176:23288:1015/145352.154:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 15, 2023 15:02:53.44 [22176:23288:1015/150253.392:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 15, 2023 15:46:08.63 [22176:23288:1015/154608.635:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Oct 15, 2023 18:58:42.74 NEW SESSION
+Oct 15, 2023 18:58:42.74 [14132:12640:1015/185842.738:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 15, 2023 18:58:42.74 [14132:12640:1015/185842.739:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Oct 15, 2023 18:58:53.97 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 15, 2023 18:59:14.83 ERROR: Client requested cancel during Invoke()
+Oct 15, 2023 19:23:02.99 [14132:10852:1015/192302.948:ERROR:service_worker_task_queue.cc(240)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 14
+Oct 15, 2023 19:25:30.64 [14132:12640:1015/192530.638:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 15, 2023 21:18:20.70 [14132:12640:1015/211820.696:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 15, 2023 21:18:24.70 [14132:12640:1015/211824.701:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 15, 2023 21:26:11.32 ERROR: Client requested cancel during Invoke()
+
+Nov 14, 2023 21:12:12.67 NEW SESSION
+Nov 14, 2023 21:12:12.67 [9912:11184:1114/211212.669:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 14, 2023 21:12:12.67 [9912:11184:1114/211212.670:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Nov 14, 2023 21:12:12.68 [9912:11184:1114/211212.671:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Nov 14, 2023 21:12:12.68 [9912:11184:1114/211212.671:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Nov 14, 2023 21:12:12.68 [9912:11184:1114/211212.672:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Nov 14, 2023 21:12:34.73 [9912:11184:1114/211234.734:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 14, 2023 21:12:36.68 [9912:11184:1114/211236.682:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Nov 14, 2023 21:12:37.84 [9912:11184:1114/211237.845:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Nov 14, 2023 21:12:38.30 [9912:11184:1114/211238.303:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Nov 14, 2023 21:12:42.11 [9912:11184:1114/211242.118:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Nov 14, 2023 21:12:43.56 [9912:14524:1114/211243.567:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Nov 14, 2023 21:13:23.65 [9912:11184:1114/211323.652:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 14, 2023 21:13:26.89 [9912:11184:1114/211326.889:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Nov 14, 2023 21:13:32.44 [9912:11184:1114/211332.439:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Nov 14, 2023 21:13:34.54 [9912:11184:1114/211334.546:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Nov 14, 2023 21:13:41.13 [9912:11184:1114/211341.130:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Nov 14, 2023 21:15:05.48 [9912:11184:1114/211505.479:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Nov 14, 2023 21:15:14.39 [9912:11184:1114/211514.398:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Nov 14, 2023 21:15:14.69 [9912:11184:1114/211514.696:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 14, 2023 21:15:24.70 [9912:11184:1114/211524.700:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Nov 14, 2023 21:15:29.43 [9912:11184:1114/211529.436:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Nov 14, 2023 21:18:09.90 [9912:11184:1114/211809.901:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Nov 14, 2023 21:18:51.94 [9912:11184:1114/211851.940:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Nov 14, 2023 21:19:06.82 [9912:11184:1114/211906.827:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 14, 2023 21:19:07.70 [9912:11184:1114/211907.703:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Nov 14, 2023 21:19:14.22 [9912:11184:1114/211914.222:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+
+Jan 10, 2025 10:25:17.24 NEW SESSION
+Jan 10, 2025 10:25:17.24 [14768:15152:0110/102517.227:ERROR:backend_impl.cc(980)] Critical error found -8
+Jan 10, 2025 10:25:17.24 [14768:15152:0110/102517.227:ERROR:entry_impl.cc(955)] Failed to save user data
+Jan 10, 2025 10:25:20.84 [14768:10680:0110/102520.839:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 10, 2025 10:25:42.70 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 10, 2025 10:25:43.38 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 10, 2025 10:25:47.43 [14768:10680:0110/102547.431:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 10, 2025 10:26:45.24 [14768:10680:0110/102645.242:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 10, 2025 10:28:23.86 [14768:10680:0110/102823.864:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 10, 2025 10:31:02.91 [13684:7028:0110/103102.909:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 10, 2025 10:31:12.96 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 10, 2025 10:31:13.03 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 10, 2025 10:31:28.93 [13684:7028:0110/103128.931:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 10, 2025 10:32:26.54 [13684:7028:0110/103226.546:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 10, 2025 10:34:14.53 [13684:7028:0110/103414.528:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 10, 2025 10:37:49.58 [13684:7028:0110/103749.581:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
